@@ -9,3 +9,5 @@
   * Syncs table `tags`.
 * Delta
   * Adding a tag to `tags`.
+* Epsilon
+  * Fetching a tag from `tags`.
