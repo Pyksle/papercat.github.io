@@ -11,3 +11,5 @@
   * Adding a tag to `tags`.
 * Epsilon
   * Fetching a tag from `tags`.
+* Zeta
+  * Editing a tag from `tags`.
