@@ -13,3 +13,5 @@
   * Fetching a tag from `tags`.
 * Zeta
   * Editing a tag from `tags`.
+* Lambda
+  * Grabs all the tag names from `tags`.
