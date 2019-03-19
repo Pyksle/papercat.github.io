@@ -1,4 +1,4 @@
-## Documentation
+## Documentation (Examples)
 
 ### Scripts
 * Alpha
@@ -7,3 +7,5 @@
   * Constructs table `tags`.
 * Gamma
   * Syncs table `tags`.
+* Delta
+  * Adding a tag to `tags`.
