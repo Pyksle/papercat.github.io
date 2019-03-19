@@ -3,7 +3,9 @@
 ### Scripts
 * Alpha
   * Database connection constructor.
+  
 * Beta
- * Constructs table `tags`.
+  * Constructs table `tags`.
+ 
 * Gamma
- * Syncs table `tags`.
+  * Syncs table `tags`.
