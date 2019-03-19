@@ -15,3 +15,5 @@
   * Editing a tag from `tags`.
 * Lambda
   * Grabs all the tag names from `tags`.
+* Mu
+  * Deletes a tag from `tags`.
